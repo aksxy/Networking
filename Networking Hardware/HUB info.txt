@@ -1,0 +1,8 @@
+#HUB
+
+-HUB connect computers in a star topology network.
+-if any one computer send data packet on HUB then the HUB are
+ send Ther data packet on all conected computers.
+-it is not a smart Dives it has no any memory to sorege nodes address
+ for shering data to parfect node thas way he send data all conected
+ nodes. 
