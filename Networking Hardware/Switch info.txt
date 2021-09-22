@@ -1,0 +1,7 @@
+#SWITCH
+
+-Switch orovide a central Connection, Between to or more Computers(nodes)
+ on Network.
+-Switch has Inelligence becouse it has memory to store MAC Addresses of
+ Connected nodes and the Help of MAC Address SWITCH nows witch data going
+ to the witch Computer(node).
