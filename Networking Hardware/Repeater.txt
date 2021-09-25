@@ -1,0 +1,6 @@
+#REPEATER
+
+-Repetater is mostly used in wirlees deives and wirerd also.
+-A repetater is an electronic Device that receives a signal and Retansmits
+ it at a higher level and higher power on to the other side of an on struction,
+ so that the singnal can cover longer distans.
