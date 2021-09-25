@@ -1,0 +1,8 @@
+#NIC
+
+-A Network interface card is a computer hardware componet designed to 
+ computers to communicate over a computer Network.
+-NIC is embiild inyour pc your manufachurar is provides you a NIC with
+ MAC Address.
+-with the help of NIC you connect to the Network Ex: internet
+-your pc MAC Addrass is store in NIC card.
