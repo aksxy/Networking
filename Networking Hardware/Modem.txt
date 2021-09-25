@@ -1,0 +1,8 @@
+#MODEM
+
+-Modem(from Modularor-demodularor) is a device that truns the digital 1s and
+ 0s of a peronal computer into sound that can be transmitted over the telephone line.
+-and one's received on the other side, convertd those sound back into a from used by
+ a USB,Ethernet,Serial or Network Connection.
+-Modems are Generally Classified by the amount of data they can send in a given time,
+ Normally measured in bits per second, or "bps".
