@@ -1,0 +1,11 @@
+#BRIDGE
+
+-Bridge is a itelligent repeter.
+-Bridge have a one memory element that can Store bothe side of MAC Address.
+
+EX:- if I have 2 sides Left-Right and in medal I connected Bridge to bothe
+        side nodes.
+- Then I want to send data on right side of number 3 pc and same time to send 
+     data on also rigth side of pc number 1 then the Bridge is the dives that
+     can send the data to right side to rigth side he cant travel data on left
+     side thas way it is itelligent dives. 
