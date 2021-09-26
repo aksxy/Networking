@@ -1,0 +1,6 @@
+#ROUTER
+
+-Router is Connect Defrant Types of Networks
+  Ex:- Router Connect 2 LAN Networks each other.
+-Router Operate at the layer 3 NETWORK LAYER of the OSI model and 
+   efficienty Router information Between Local Area Networks.
