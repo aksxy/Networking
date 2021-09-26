@@ -1,0 +1,4 @@
+#WIRELESS ACCESS POINT
+
+-A Wireless Access Point (WAP or AP) is a Device that allows to communication
+   wireless Network Using WI-FI,Bluetooth or related Standards.
