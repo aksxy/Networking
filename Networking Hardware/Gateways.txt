@@ -1,0 +1,5 @@
+#GATEWAYS
+
+-Gateways is a software that is enbilled in Router.
+-Some time we called GATEWAY AS PROTOCALL CONVERTER.
+-Its helps to work Router.
