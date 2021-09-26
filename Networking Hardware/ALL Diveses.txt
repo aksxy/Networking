@@ -1,0 +1,71 @@
+#HUB
+
+-HUB connect computers in a star topology network.
+-if any one computer send data packet on HUB then the HUB are
+ send Ther data packet on all conected computers.
+-it is not a smart Dives it has no any memory to sorege nodes address
+ for shering data to parfect node thas way he send data all conected
+ nodes. 
+
+#SWITCH
+
+-Switch provides a central Connection, Between two or more Computers(nodes)
+ on Network.
+-Switch has Inelligence becouse it has memory to store MAC Addresses of
+ Connected nodes and the Help of MAC Address SWITCH nows witch data going
+ to the witch Computer(node).
+
+#ROUTER
+
+-Router is Connect Defrant Types of Networks
+  Ex:- Router Connect 2 LAN Networks each other.
+-Router Operate at the layer 3 NETWORK LAYER of the OSI model and 
+   efficienty Router information Between Local Area Networks.
+
+#REPEATER
+
+-Repetater is mostly used in wirlees deives and wirerd also.
+-A repetater is an electronic Device that receives a signal and Retansmits
+ it at a higher level and higher power on to the other side of an on struction,
+ so that the singnal can cover longer distans.
+
+#NIC
+
+-A Network interface card is a computer hardware componet designed to 
+ computers to communicate over a computer Network.
+-NIC is embiild inyour pc your manufachurar is provides you a NIC with
+ MAC Address.
+-with the help of NIC you connect to the Network Ex: internet
+-your pc MAC Addrass is store in NIC card.
+
+#MODEM
+
+-Modem(from Modularor-demodularor) is a device that truns the digital 1s and
+ 0s of a peronal computer into sound that can be transmitted over the telephone line.
+-and one's received on the other side, convertd those sound back into a from used by
+ a USB,Ethernet,Serial or Network Connection.
+-Modems are Generally Classified by the amount of data they can send in a given time,
+ Normally measured in bits per second, or "bps".
+
+#BRIDGE
+
+-Bridge is a itelligent repeter.
+-Bridge have a one memory element that can Store bothe side of MAC Address.
+
+EX:- if I have 2 sides Left-Right and in medal I connected Bridge to bothe
+        side nodes.
+- Then I want to send data on right side of number 3 pc and same time to send 
+     data on also rigth side of pc number 1 then the Bridge is the dives that
+     can send the data to right side to rigth side he cant travel data on left
+     side thas way it is itelligent dives. 
+
+#GATEWAYS
+
+-Gateways is a software that is enbilled in Router.
+-Some time we called GATEWAY AS PROTOCALL CONVERTER.
+-Its helps to work Router.
+
+#WIRELESS ACCESS POINT
+
+-A Wireless Access Point (WAP or AP) is a Device that allows to communication
+   wireless Network Using WI-FI,Bluetooth or related Standards.
