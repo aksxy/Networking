@@ -1,0 +1,16 @@
+#TOPOLOGY
+
+-Topology means Arragement of Nodes(computers) of a Computer Network.
+
+#in Topology ther are two Mediums
+1.Physical Topology
+        -Placement of Various Nodes.
+2.Logical Topology
+        -Deals with the data flow in the Network.
+
+#This is sume Physical topologys types.
+ 1.BUS
+ 2.RING
+ 3.STAR
+ 4.MESH
+ 5.HYBRID
