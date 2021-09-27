@@ -1,0 +1,5 @@
+#BUS TOPOLOGY
+
+-Here one Long Cable act as a Backbone to link all the device are
+   Connected to the backbonew by drop lines and taps.
+-This allows only one Device to Transmit data at a time.
