@@ -1,0 +1,10 @@
+#RING TOPOLOGY
+
+-A Ring Toplology is like a BUS Topology but in round Shep in Ring Topology
+   nodes are Connected to from of Round shep and his Loop are Closed.
+-in Ring Topology No One are Supiriar and NO One are Inpiriar in this Network
+   all Connected Nodes are Equal Rights.
+-Every Node have 2 Connections one to each of its Nearest Nodes.
+-The Communication Allwas Unidirectional.
+-Sending and Receving data Takes Place with the help if TOKEN.
+-the only node have Token can send the data to next node.
