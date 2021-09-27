@@ -1,0 +1,6 @@
+#STAR TOPOLOGY
+
+-In Star Topology Every node is Connected to a Central Node Called a 
+   HUB or SWITCH.
+-Centraized Management for sending data.
+-All Trafic must pass through the hub or switch.
