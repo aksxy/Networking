@@ -1,0 +1,8 @@
+#NETWORK TYPES
+
+1.Local Area Network (LAN)
+2.Meltropolitan Area Network (MAN)
+3.Wide Area Network (WAN)
+4.Personal Area Network (PAN)
+5.Compus Area Network (CAN)
+6.Storage Area Network (SAN)
