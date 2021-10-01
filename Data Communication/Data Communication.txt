@@ -1,0 +1,4 @@
+#DATA COMMUNICATION
+
+-Data Communication are the Exchange of data between two Nodes via some 
+  form of links(Transmission Medinm) Such as cable.
