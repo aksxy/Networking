@@ -1,0 +1,25 @@
+
+#DATA FLOW 
+
+-Ther are Three Types of Data Flow.
+
+1.Simplex
+
+- Communication is always Unidirectional(mens data flow are transimit in only
+     one side and sender can not reveive data).
+-One Device can Transmit data and thenother Device will Receive data but the
+   receiver Device can not send the data to the Sender.
+Ex:- Keyboard,Mous.
+
+2.Half Duplex
+
+-Communication is in both directions but not at the same time.
+-If one Device is Sending a data then Other Device wait for all data receving
+   then all data is recevid then this Device can send the data.
+Ex:- Wolkie-Talkies
+
+3.Full Duplex
+
+-Communication is in Bothe Directions Simultaneously.
+-Device can Send and Revice Data at the same time.
+Ex:-Telephone Line.
