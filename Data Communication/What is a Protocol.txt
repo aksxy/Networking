@@ -1,0 +1,10 @@
+#PROTOCOL
+
+-The Protocol are Set of Rules that Helps to Communication One Computer to 
+    Another Computer.
+
+-All Comunication Schemes will have the Following Things
+
+1.Soure or Sender
+2.Destination or Recever
+3.Channel or Media
