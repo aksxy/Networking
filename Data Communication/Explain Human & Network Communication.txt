@@ -1,0 +1,37 @@
+#1HOW HUMAN COMMUNICATION PROTOCOL WORK
+
+1.An Identified Sender and Recever
+2.Common Language and Grammer
+3.Speed and timing of Delivery
+4.Comfirmation of Acknowledgment
+
+#2HOW NETWORK COMMUNICATION PROTOCOL WORK
+
+-Protocols used in Network Communications also define:-
+
+1.Message Encoding
+-means message data are convert into Waves Becose in Wireless Medium we cant
+    send data form of signals We send data are form of Waves.
+
+2.Message Formatting and Encapsulation
+-Encapsulate the information to identify the sender and Receiver Rightly.
+
+3.Message Timing
+-Flow Control
+   it is Control the Speed of sending and Resiving.
+-Response Timeout
+   he is wate a to Resiver Response and he send data.
+
+4.Message Size
+-Humans Break long Messages into Smaller pasrts or sentences long Message must
+    also be Broken into Smaller Piceces to Travel data Across a Network.
+
+5.Message Delivery Options
+-Ther are three typs of message Delivery options
+(1)UNICAST
+     Mens one Sender and one Recever.
+(2)MULTICAST
+     The Sender Send the data to the set of Resivers, but not all resivers,
+          But not all Resivers it is Multicasting.
+(3)BROADCAST
+     The sender Send the data to all the Conected Resivers it is Broadcasting.
