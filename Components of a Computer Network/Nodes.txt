@@ -1,0 +1,13 @@
+#NODES
+
+-Ther are Sending and Receving data this Nodes can be End Nodes(End Devices)
+    and Intermediary Nodes(Intermediatry Devies)
+
+1.END NODES
+  -End Nodes are the Deives that is going to the Starting Point of Communicastion
+       or the end Point to the Communication.
+ Ex:-Computers,Phones,Tablets
+
+2.INTERMEDIARY DEIVES
+  -If two End Device want to Communicat Each other then he need Intermediary Devices.
+ EX:-Switch,Bridges,Hub,Routers,Repeaters
