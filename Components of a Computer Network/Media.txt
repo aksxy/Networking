@@ -1,0 +1,41 @@
+#MEDIA 
+
+1.Wired Medium(Uided MEdium)
+2.Wireless Medium(Unguided Medium)
+ 
+-----------------------------------------------
+GUIDED               |        UNGUIDED         |
+-----------------------------------------------
+Cable Media          |      Waves Media        |
+-----------------------------------------------
+1)Twisted-Pair-Cable |   1) Radio Waves        |
+-----------------------------------------------
+2)Coaxial Cable      |   2) Microwaves         |
+-----------------------------------------------
+3)Fiber-Optic Cable  |   3) Infrared           |
+-----------------------------------------------
+
+1.WIRELESS MEDIA (Unguided)
+
+i) Radio Wave 
+     ex: Bluetooth,WIFI
+ii)Microwave
+     ex: Cellular system
+iii)Infrared
+     ex: TV Remorte Control (short range communication)
+
+2.WIRED MEDIA(Guided)
+
+i)Twisted-pair-Cable
+   -in This cable have 8 copper based wired this wired are Twisted into 2
+         form this 8 wires Twisted in form of 4.
+   -one wired is used to carry signals to the recevier and Second wired is
+         used as a Ground Reference.
+ii)Coaxial Cable
+   -this cable is a used in tv or setup box types of connecstions.
+   -Coxial cable carries signals of higner frequency ranges then twisted pair cable.
+iii)Fiber-Optic Cable
+   -A Fiber Optic Cable is made of glass or plastic and Transmit Signals in 
+         the form of light.
+   -Faster Then All cable Mediums Becose this cable is Transmit signals in
+         the form of light.
