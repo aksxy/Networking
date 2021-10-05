@@ -1,14 +1,16 @@
 #Explen LAN MAN WAN
 
-Type   USE        Network range    Example
-
-LAN    Home,      10 Meters to     Ethernet,
-       Office.    1000 Meters.      WIFi
-
-MAN    Multiple   5km to 50km      Cable tv
-       Bulldings                   Network.
-       or City.
-
-WAn    Connect    100000km.        Internet. 
-       country
-       to countr.
+------------------------------------------------
+| Type   USE      |Network range|   Example   |
+------------------------------------------------
+| LAN    Home,    | 10 Meters to|    Ethernet, |
+|      Office.    | 1000 Meters.|   WIFi       |
+------------------------------------------------
+| MAN    Multiple | 5km to 50km |    Cable tv  |
+|      Bulldings  |             |  Network.    |
+|      or City.   |             |              |
+------------------------------------------------
+| WAn    Connect  | 100000km.   |    Internet. |
+|       country   |             |              |
+|      to countr. |             |              |
+------------------------------------------------
