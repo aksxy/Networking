@@ -1,0 +1,16 @@
+#SWITCHING
+
+
+-Switching in Computer Network Helps in Deciding the best route for data 
+    Transmission if there are multiple paths in a larger network.
+  
+                   Switching Techniques
+                             |
+    ----------------------------------------------------------
+    |                          |                             |
+ Circuit Switching        Message Switching          Packet Switching  
+                                                            |
+                                              --------------------------
+                                              |                        |
+                                       Datagram Switching       Virtual Circuit
+                                                                   Switching                   
