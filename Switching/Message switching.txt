@@ -1,0 +1,9 @@
+#MESSAGE SWITCHING
+
+
+-Store and forward mechanism.
+-Message is transferred as a complete unit and forwarded using store and
+    forward mechanism at the intermediary node.
+-Each intermediate decice receive the message and store it until the next device
+    is ready to receive it. for this reason a message switching network is sometime
+    called as atore and forward switching.
