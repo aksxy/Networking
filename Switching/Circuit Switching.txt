@@ -1,0 +1,14 @@
+#CIRCUTI SWITCHING
+
+-A Dedicated path is established between the sender and receiver.
+-Befor data transfer connection will be established first.
+Ex:-Telephone network.
+
+-Ther are 3 phases of circuit switching:-
+1.Connection Establishment.
+2.Dta Transfer.
+3.Connection Disconnection.
+
+-A dedicated link/path is established across the sender & reciver which is
+   maintained for entire duration of conversation.
+ 
