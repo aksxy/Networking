@@ -1,0 +1,11 @@
+#OSI MODEL
+
+-OSI stahnds for Open System Interconnection.
+-It is a model for Understanding and Designing a network Architectur 
+   that is Flexible,Robust and Interoperable(mens help to communicet 
+   in difrant types of opreting systems.)
+-if ther is two defrant system want to communicate between each other
+   then the OSI Refrans Model can Prezent data like every system can
+   understand data.(This OSI model only for Undersanding but now in 
+   networking use the TCP/IP model.)
+Ex:-Communication Between Windows and Linux.
