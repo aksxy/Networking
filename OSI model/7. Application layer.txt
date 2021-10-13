@@ -1,0 +1,13 @@
+#APPLICATOIN LAYER 
+
+-The top layer of the OSI Model.
+-Provides a set of interfaces for sending and receiving application and
+   to use network services.
+EX:- if you used any application such as Chrome for search any content
+   Then this your chrome useing activiti is aaplication layer work it helps you
+   to search any thing and used Network Services.
+
+#Some Services provided by application layer
+-File Transfer and Access management(FTAM).
+-Mail Services.
+-Directory Services.
