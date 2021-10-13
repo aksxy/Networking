@@ -9,3 +9,13 @@
    understand data.(This OSI model only for Undersanding but now in 
    networking use the TCP/IP model.)
 Ex:-Communication Between Windows and Linux.
+
+#Layers of OSI Reference Model
+
+7. APPLICATION layer
+6. PRESENTATION layer
+5. SESSION layer
+4. TRANSPORT layer
+3. NETWORK layer
+2. DATA LINK layer
+1. PHYSICAL layer
