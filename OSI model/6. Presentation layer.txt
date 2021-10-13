@@ -1,0 +1,13 @@
+#PRESENTATION LAYER 
+
+-Its Convert data format like this data flow on Network.
+-Manages data-Format infoemation for network communications.
+
+#Services Provided by Presentation layer
+-Translation :-
+     Present data in network like all systems can andrstand this data.
+-Encryption :-
+     It can convert plen text data into Encrypted version that can very
+   boudy cant see data.
+-Comeression:-
+     we send multy media messeges EX.videos,audios,images.
