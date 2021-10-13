@@ -1,0 +1,12 @@
+#SESSION LAYER
+
+-Exchange the data between two node the data exchenging this timeing 
+   is a work of Session layer.
+-Your Connection Establish for Shering data this Connection mentend 
+   then Session layer creating a session for shering data.
+
+#Services Provided by Session layer
+-Connection menten.
+-Connection Establishes.
+-Dialog Control.
+Synchronization.
