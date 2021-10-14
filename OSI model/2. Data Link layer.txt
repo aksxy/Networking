@@ -1,0 +1,15 @@
+#DATA LINK LAYER
+
+-Handles special data frames Between the Network layer and the physical layer.
+-This layer is used to intranetworking Host-To-Host Communication.
+
+#Services Provided by Data link layer
+-Framing.
+-Physical Addressing:-
+                  giveng MAC Address Soures and Destination.
+-Flow Control.
+-Error Control:-
+           This is identify data is carapted or not.
+-Access Control:-
+           If so many nodes are Connected to the same link then this layer 
+      control the Access of this link for which node shear data in which time.
