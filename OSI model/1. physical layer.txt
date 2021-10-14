@@ -1,0 +1,23 @@
+#PYHSICAL LAYER
+
+-You have Recive data in Frame in upper layer ther data is in bits from
+     so this layer Converts bits into Electronic Signals for Outgoing messages.
+-its Convert signals into bits and bits into signals.
+-This layer manages the interface between the computre and the network 
+     medium.(Coax,Twisted pair,Fiber)
+
+#Services Provided by Physical layer
+-Transmition Mode:-
+             i)Siplex. ii)Half Duplex. iii)Full Duplex.
+-Physical Characteristic of the media:-
+             If Defind the type of the Media(Wired or wiredless) and Convert
+       data like ther travel in ther conected mediam.
+-Representation of bits:-
+             Convert bits into signals encoding.
+-Data rate:-
+        The number of bits send each second.
+-Synchronization of bits.
+-Line Configuration:-
+        It Configer  that this is point-to-point or Multipoint.
+-Physical Topology:-
+        Find Topology how data is Transfar.
