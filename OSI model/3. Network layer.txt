@@ -1,0 +1,13 @@
+#NETWORK LAYER
+
+-Handles Addressing messages for delivery, as well as Translating 
+    logical network addresses and names into their physical counterparts.
+-Responibal for deciding how ti route Transmissions between computer. mens
+    deciding the path of routers best way for trasfaring data.
+
+#Services Provided by Network layer
+-Logical Addressing:-
+               He gives soures IP Address and Destinesan Ip Address of
+          data Transmition.
+-Routing:-
+       Find the Best way for data Transmition.
