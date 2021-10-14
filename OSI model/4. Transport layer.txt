@@ -1,0 +1,18 @@
+#TRANSPORT LAYER
+
+-Manages the Transmission of data across a network.
+
+#Services Provided by Transport layer.
+-Port Addressing:-
+             Set path of data tranparing which port data is transporting.
+-Segmentation and Reassembly:-
+             If data is very large then this layer is break this data in 
+         picess colled Segment. and Reassembl this segment on other side.
+-Connection Control:-
+             Connectionles and Connection Oriented.
+-End To End Flow Control:-
+             If Sender is fast send Sender and Reciver is slow resiver then 
+         this layer is Control flow.
+-Error Control:-
+             It is check any error on data.
+             
