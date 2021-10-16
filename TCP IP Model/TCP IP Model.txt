@@ -1,0 +1,10 @@
+#TCP/IP MODEL
+
+-The TCP/IP model is the network model used in the current internet.
+-It is concise version of the OSI model. the laters in the TCP/IP protocol
+    suite do not match exactly with those in the OSI model.
+-Today However TCP/IP is thought of as five-layer with the layer named
+    similarly to the ones in the OSI model.
+
+-in TCP/IP model ther 3 OSI layer (Application,Presntation,Session) are merge
+    in Application layer.
