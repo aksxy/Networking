@@ -1,0 +1,55 @@
+#PHYSICAL LAYER
+
+-One of the Majior function of the physical layer is to move data in the
+    form of Electromagnetic Signals across a transmission medium.
+#Signal:-
+        It is a Function that rempresents the variation of a Physical
+  quntity with respect to time.
+Ex:-Variation in temperature of a city in one day.
+
+i)Analog Signal
+     - It is the signal that can take any value in the defined range.
+     - All real-life Segnals are anslog signal is Nature.
+ii)Digital Signal
+     - It is the signal that can take on of the finite values at any given 
+       time.
+     - In case of digital signals, we discretize both time and magnitude.
+
+#Comparison of various physical media. 
+
+-----------------------------------------------------------------
+|      Media       | Physical Components |    Signal            |
+-----------------------------------------------------------------
+|                  |  -UTP/STP           |                      |
+|   Copper Cable   |  -Coaxial cable     |     Electromagnetic  |
+|     (Wired)      |  -Connectors        |         Signals.     |
+|                  |  -NICs              |                      |
+|                  |  -Ports/Interfaces  |                      |
+-----------------------------------------------------------------
+|                  |  -Single-mode fiber |                      |
+|   Fiber Optic    |  -Multimode fiber   |     -A Light pules   |
+|     (Wired)      |  -Connectors        |      equals 1.       |
+|                  |  -NTCs & Interfaces |     -No Light Pules  |
+|                  |  -Lasers & LEDS     |      is 0.           |
+-----------------------------------------------------------------
+|                  |  -Access point      |                      |
+|   Wireless Media |  -NTCs              |      Radio Waves.    |
+|                  |  -Radio             |                      | 
+|                  |  -Antennae          |                      |
+-----------------------------------------------------------------
+
+#Understand wired & Wireless Media.
+
+1)Wire Media
+
+    i)Copper Cable(Ethernet cable)
+        -Unshielded Twisted pair(UTP).
+        -Shielded Twisted pair(STP).
+    ii)Copper Coaxial cable.
+    iii)Fiber Optic cable.
+
+2)Wireless Media
+     -Wireless Media has the following areas os Concern.
+      i)Coverge area
+      ii)Interference
+      iii)Security
